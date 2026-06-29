@@ -1,5 +1,12 @@
 # Dreamcast JP BIOS v1.01d Patches
 
+> [!IMPORTANT]
+> This repository is a working reverse-engineering document. Everything here is experimental and may change as new behaviour is discovered.
+>
+> The VMU copy-protection bypass is currently confirmed working in Flycast.
+>
+> The black swirl patch successfully displays the hidden black boot swirl, but currently breaks disc loading and should be treated as proof of concept only.
+
 Repository: https://github.com/ibizara/Dreamcast-JP-BIOS-v1.01d-Patches/
 
 Documented binary patches for the **Japanese Sega Dreamcast Boot ROM v1.01d**.
