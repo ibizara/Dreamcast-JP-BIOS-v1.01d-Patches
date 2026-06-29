@@ -23,6 +23,14 @@ No BIOS images are included.
 | [Black Loading Swirl](patches/Black-Loading-Swirl.md) | Done | Forces the hidden black boot swirl while preserving the console's true region. |
 | [Region Lock Bypass](patches/Region-Lock-Bypass.md) | Planned | Work in progress. |
 
+## Patched BIOS Hashes
+
+| BIOS image | MD5 |
+|---|---|
+| VMU Copy-Protection Bypass only | `5ec7afd8d21469aa1debc840d34ce1f1` |
+| Black Loading Swirl only | `0cb7c3e7bcde48f9584ceb995a96caee` |
+| VMU Copy-Protection Bypass + Black Loading Swirl | `5578181c7ba9d204faac016234526f55` |
+
 ## Repository Layout
 
 ```text
